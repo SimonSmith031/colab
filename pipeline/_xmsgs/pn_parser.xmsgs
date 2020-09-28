@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/Counter_3_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ID_branch_checker.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ID_branch_checker.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ID_branch_checker.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/MIO_BUS_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/Multi_8CH32_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/PC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/PC.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/PC.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/RF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/RF.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/RF.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/SAnti_jitter_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/SEnter_2_32_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/SPIO_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/SSeg7_Dev_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/alu.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/alu.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/clk_div.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ctrl.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ctrl.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/ctrl.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/data_ctrl.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/data_ctrl.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/data_ctrl.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/decoder.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/decoder.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/decoder.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/imm_ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/jump_ctrl4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/jump_ctrl4.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/jump_ctrl4.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/mux.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/pcpu_core.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/pcpu_core.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/def.v&apos; in file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/pcpu_core.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Simon-PC/Desktop/co_lab/final/pipeline/top.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

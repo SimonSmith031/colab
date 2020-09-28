@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Simon-PC\Desktop\co_lab\ise_proj\pipeline\top.ncd
+OUTFILE=C:\Users\Simon-PC\Desktop\co_lab\ise_proj\pipeline\top.bit
+FAMILY=Kintex7
+PART=xc7k160t-2lffg676
+WORKINGDIR=C:\Users\Simon-PC\Desktop\co_lab\ise_proj\pipeline
+LICENSE=WebPack
+USER_INFO=__0_0_0
